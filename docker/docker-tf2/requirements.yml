@@ -1,0 +1,18 @@
+channels:
+  - tensorflow
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy=1.20.2
+  - python=3.9.2
+  - tensorflow=2.4.1
+  - matplotlib=3.4.1
+  - pillow=8.2.0
+  - scikit-image=0.18.1
+  - scikit-learn=0.24.1
+  - scipy=1.6.2
+  - pip:
+      - opencv-python-headless==4.5.1.48
+      - foolbox
+      - gspread
+      - oauth2client

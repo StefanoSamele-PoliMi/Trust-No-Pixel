@@ -1,0 +1,10 @@
+tensorflow-gpu==1.15
+numpy
+matplotlib
+pillow
+scikit-image
+scikit-learn
+scipy
+git+https://github.com/JiahuiYu/neuralgym
+opencv-python-headless
+pyyaml
