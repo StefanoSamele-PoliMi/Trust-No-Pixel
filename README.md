@@ -1,6 +1,6 @@
 # Trust-No-Pixel
 
-This is the official implementation of the defense against adversarial attack accepted at [IJCNN 2022]().
+This is the official implementation of the defense against adversarial attack accepted at [IJCNN 2022](https://ieeexplore.ieee.org/document/9892818).
 
 
 ## Set up and Configuration 
